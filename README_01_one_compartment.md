@@ -77,4 +77,4 @@ Open `notebooks/01_one_compartment.ipynb` and run all cells in order.
 
 ## 👤 Author
 
-Ioannis Ntontis | Physics Graduate | [LinkedIn](https://www.linkedin.com/in/intontis/) | [GitHub](https://github.com/intontis)
+Ioannis Ntontis | Physicist
