@@ -87,7 +87,3 @@ one compartment model misses this behaviour entirely.
 pip install numpy scipy matplotlib
 ```
 Open `notebooks/02_two_compartment.ipynb` and run all cells in order.
-
-## 👤 Author
-
-Ioannis Ntontis | Physicist
