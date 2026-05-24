@@ -93,4 +93,4 @@ Open `notebooks/03_multiple_dosing.ipynb` and run all cells in order.
 
 ## 👤 Author
 
-Ioannis Ntontis | Physics Graduate | [LinkedIn](https://www.linkedin.com/in/intontis/) | [GitHub](https://github.com/intontis)
+Ioannis Ntontis | Physicist
