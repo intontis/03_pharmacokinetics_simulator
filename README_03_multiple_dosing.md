@@ -90,7 +90,3 @@ running thousands of optimization iterations.
 pip install numpy matplotlib
 ```
 Open `notebooks/03_multiple_dosing.ipynb` and run all cells in order.
-
-## 👤 Author
-
-Ioannis Ntontis | Physicist
