@@ -74,7 +74,3 @@ across completely different physical systems.
 pip install numpy scipy matplotlib
 ```
 Open `notebooks/01_one_compartment.ipynb` and run all cells in order.
-
-## 👤 Author
-
-Ioannis Ntontis | Physicist
