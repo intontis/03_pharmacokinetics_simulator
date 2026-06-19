@@ -40,7 +40,7 @@ same equation, but entirely different context.
 
 - **First order ODE** — elimination rate proportional to current concentration
 - **Exponential decay** — same mathematics as radioactive decay ($λ$ → $k_e$)
-- **Half life** — ($t_{1/2} = \frac{\ln(2)}{k_e}$) ,e derived analytically from the ODE solution
+- **Half life** — {$t_{1/2} = \frac{\ln(2)}{k_e}$} ,e derived analytically from the ODE solution
 - **Therapeutic window** — safe concentration range between toxic and ineffective
 - **Adaptive step integration** — RK45 automatically adjusts step size for accuracy
 
