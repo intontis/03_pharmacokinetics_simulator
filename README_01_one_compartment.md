@@ -13,9 +13,9 @@ This follows a first-order ODE:
 $\boldsymbol{\frac{dC}{dt} = -k_e \cdot C}$
 
 Where:
-- C  = drug concentration in blood (mg/L)
+- $C$  = drug concentration in blood (mg/L)
 - $k_e$ = elimination rate constant (1/hour)
-- t  = time (hours)
+- $t$  = time (hours)
 
 The analytical solution is a pure exponential decay: $\quad \boldsymbol{C(t) = C_0 \cdot e^{-k_e \cdot t}}$
 
