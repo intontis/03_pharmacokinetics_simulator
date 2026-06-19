@@ -23,8 +23,8 @@ solutions (see two compartment notebook).
 The optimal dosing regime is found by maximizing the percentage 
 of time concentration stays within:
 
-- **$C_{min}$ = 10 mg/L** → minimum effective concentration
-- **$C_{max}$ = 60 mg/L** → maximum safe concentration
+- **$\boldsymbol{C_{min}}$ = 10 mg/L** → minimum effective concentration
+- **$\boldsymbol{C_{max}}$ = 60 mg/L** → maximum safe concentration
 
 ## 📊 Results
 
