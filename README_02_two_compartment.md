@@ -17,8 +17,8 @@ a system of coupled ODEs:
 Where:
 - C1  = drug concentration in blood (mg/L)
 - C2  = drug concentration in tissue (mg/L)
-- k12 = transfer rate blood → tissue (1/hour)
-- k21 = transfer rate tissue → blood (1/hour)
+- $k_12$ = transfer rate blood → tissue (1/hour)
+- $k_21$ = transfer rate tissue → blood (1/hour)
 - ke  = elimination rate from blood (1/hour)
 
 Mathematically identical to **coupled oscillators** in classical 
