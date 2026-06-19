@@ -32,7 +32,7 @@ same equation, but entirely different context.
 |---|---|
 | Initial dose | 100 mg/L |
 | Elimination rate (ke) | 0.15 /hour |
-| Half life (t½) | 4.6 hours |
+| Half life $t_{1/2}$ | 4.6 hours |
 | Time in therapeutic window | ~11 hours |
 | ODE solver | RK45 (Runge-Kutta 4/5) |
 
