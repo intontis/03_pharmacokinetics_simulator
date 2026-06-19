@@ -31,7 +31,7 @@ same equation, but entirely different context.
 | Parameter | Value |
 |---|---|
 | Initial dose | 100 mg/L |
-| Elimination rate (ke) | 0.15 /hour |
+| Elimination rate ($k_e$) | 0.15 /hour |
 | Half life $t_{1/2}$ | 4.6 hours |
 | Time in therapeutic window | ~11 hours |
 | ODE solver | RK45 (Runge-Kutta 4/5) |
@@ -39,7 +39,7 @@ same equation, but entirely different context.
 ## 🧠 Physics Concepts Demonstrated
 
 - **First order ODE** — elimination rate proportional to current concentration
-- **Exponential decay** — same mathematics as radioactive decay (λ → ke)
+- **Exponential decay** — same mathematics as radioactive decay ($λ$ → $k_e$)
 - **Half life** — $\boldsymbol{t_{1/2} = \frac{\ln(2)}{k_e}}$ e, derived analytically from the ODE solution
 - **Therapeutic window** — safe concentration range between toxic and ineffective
 - **Adaptive step integration** — RK45 automatically adjusts step size for accuracy
