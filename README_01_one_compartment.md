@@ -47,7 +47,7 @@ same equation, but entirely different context.
 The one compartment model assumes the body behaves as a single 
 well-mixed vessel. While simplified, it accurately describes many 
 real drugs and is the foundation for all more complex PK models.
-The half life formula $t_{1/2} = \frac{\ln(2)}{k_e}$ is identical to nuclear decay
+The half life formula ($t_{1/2} = \frac{\ln(2)}{k_e}$) is identical to nuclear decay
 a beautiful example of the same mathematics appearing 
 across completely different physical systems.
 
