@@ -17,9 +17,7 @@ Where:
 - ke = elimination rate constant (1/hour)
 - t  = time (hours)
 
-The analytical solution is a pure exponential decay:
-
-$\boldsymbol{C(t) = C_0 \cdot e^{-k_e \cdot t}}$
+The analytical solution is a pure exponential decay: $\quad \boldsymbol{C(t) = C_0 \cdot e^{-k_e \cdot t}}$
 
 Mathematically identical to **radioactive decay** in nuclear physics
 same equation, but entirely different context.
