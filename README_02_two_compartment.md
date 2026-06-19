@@ -41,8 +41,8 @@ solution** — numerical integration via RK45 is required.
 | Parameter | Value |
 |---|---|
 | Initial dose | 100 mg/L |
-| k_{12} (blood → tissue) | 0.3 /hour |
-| k_{21} (tissue → blood) | 0.1 /hour |
+| $k_{12}$ (blood → tissue) | 0.3 /hour |
+| $k_{21}$ (tissue → blood) | 0.1 /hour |
 | Elimination rate (ke) | 0.15 /hour |
 | Peak tissue concentration | ~48 mg/L at hour 6 |
 | ODE solver | RK45 (Runge-Kutta 4/5) |
