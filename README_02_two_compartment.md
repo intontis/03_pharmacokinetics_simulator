@@ -10,9 +10,9 @@ Most drugs don't stay in the bloodstream — they distribute into
 surrounding tissues. The two compartment model captures this with 
 a system of coupled ODEs:
 
-**Blood Compartment ODE:** $\frac{dC_1}{dt} = -k_{12} \cdot C_1 + k_{21} \cdot C_2 - k_e \cdot C_1$
+**Blood Compartment ODE:** $\boldsymbol{\frac{dC_1}{dt} = -k_{12} \cdot C_1 + k_{21} \cdot C_2 - k_e \cdot C_1}$
 
-**Tissue Compartment ODE:** $\frac{dC_2}{dt} = k_{12} \cdot C_1 - k_{21} \cdot C_2$
+**Tissue Compartment ODE:** $\boldsymbol{\frac{dC_2}{dt} = k_{12} \cdot C_1 - k_{21} \cdot C_2}$
 
 Where:
 - C1  = drug concentration in blood (mg/L)
