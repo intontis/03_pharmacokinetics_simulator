@@ -13,7 +13,7 @@ between too low (ineffective) and too high (toxic).
 Since the one compartment model has a known analytical solution, 
 each dose interval is calculated directly using:
 
-**C(t) = C₀ · e^(-ke·t)**
+$\boldsymbol{C(t) = C_0 \cdot e^{-k_e \cdot t}}$
 
 Where C₀ is the current concentration after adding the new dose. 
 This is faster and more accurate than numerical integration for 
