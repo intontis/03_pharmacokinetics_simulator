@@ -47,7 +47,7 @@ of time concentration stays within:
 
 ## 🧠 Physics Concepts Demonstrated
 
-- **Analytical solution** — C(t) = C₀·e^(-ke·t) used directly for efficiency
+- **Analytical solution** — $\boldsymbol{C(t) = C_0 \cdot e^{-k_e \cdot t}}$ used directly for efficiency
 - **Steady state accumulation** — drug building up with repeated dosing
 - **Dose-interval optimization** — two-parameter sweep for optimal regime
 - **Toxicity threshold** — hard ceiling above which no interval prevents accumulation
