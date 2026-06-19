@@ -23,7 +23,7 @@ Where:
 
 Mathematically identical to **coupled oscillators** in classical 
 mechanics — the tissue compartment acts as a drug reservoir, and 
-the transfer rates $k_{12} / k_{21}$ play the role of coupling constants.
+the transfer rates ($k_{12} / k_{21}$) play the role of coupling constants.
 
 Unlike the one compartment model, this system has **no analytical 
 solution** — numerical integration via RK45 is required.
