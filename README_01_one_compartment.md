@@ -10,7 +10,7 @@ When a drug is administered intravenously, it enters the bloodstream instantly
 and is eliminated at a rate proportional to its current concentration. 
 This follows a first-order ODE:
 
-**dC/dt = -ke · C**
+$\boldsymbol{\frac{dC}{dt} = -k_e \cdot C}$
 
 Where:
 - C  = drug concentration in blood (mg/L)
