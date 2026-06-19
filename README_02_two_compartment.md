@@ -15,11 +15,11 @@ a system of coupled ODEs:
 **Tissue Compartment ODE:**  $\quad \boldsymbol{\frac{dC_2}{dt} = k_{12} \cdot C_1 - k_{21} \cdot C_2}$
 
 Where:
-- C1  = drug concentration in blood (mg/L)
-- C2  = drug concentration in tissue (mg/L)
+- $C_1$  = drug concentration in blood (mg/L)
+- $C_2$  = drug concentration in tissue (mg/L)
 - $k_{12}$ = transfer rate blood → tissue (1/hour)
 - $k_{21}$ = transfer rate tissue → blood (1/hour)
-- ke  = elimination rate from blood (1/hour)
+- $k_e$  = elimination rate from blood (1/hour)
 
 Mathematically identical to **coupled oscillators** in classical 
 mechanics — the tissue compartment acts as a drug reservoir, and 
