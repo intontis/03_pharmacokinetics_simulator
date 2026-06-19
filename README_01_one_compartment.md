@@ -19,7 +19,7 @@ Where:
 
 The analytical solution is a pure exponential decay:
 
-**C(t) = C₀ · e^(-ke·t)**
+$\boldsymbol{C(t) = C_0 \cdot e^{-k_e \cdot t}}$
 
 Mathematically identical to **radioactive decay** in nuclear physics
 same equation, but entirely different context.
@@ -40,7 +40,7 @@ same equation, but entirely different context.
 
 - **First order ODE** — elimination rate proportional to current concentration
 - **Exponential decay** — same mathematics as radioactive decay (λ → ke)
-- **Half life** — t½ = ln(2)/ke, derived analytically from the ODE solution
+- **Half life** — $\boldsymbol{t_{1/2} = \frac{\ln(2)}{k_e}}$ e, derived analytically from the ODE solution
 - **Therapeutic window** — safe concentration range between toxic and ineffective
 - **Adaptive step integration** — RK45 automatically adjusts step size for accuracy
 
